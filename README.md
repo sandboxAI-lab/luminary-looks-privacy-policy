@@ -9,7 +9,6 @@ Luminary Looks is designed to respect your privacy. We do not require you to cre
 
 2. Third-Party Services and Affiliate Links
 To support the development of the app, we participate in affiliate marketing programs. The app contains links to external websites and third-party products.
-
 When you click on these links or make a purchase, third-party affiliate networks may use cookies, tracking pixels, or your device’s IP address to track referrals and process commissions. We do not have access to or control over the data collected by these third-party services. We encourage you to review the privacy policies of any third-party websites you visit.
 
 3. Log Data and Analytics
